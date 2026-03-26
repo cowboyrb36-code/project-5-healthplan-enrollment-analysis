@@ -1,5 +1,3 @@
-# project-5-healthplan-enrollment-analysis
-
 # Project 5 – Health Plan Enrollment Analysis
 
 ## Overview
