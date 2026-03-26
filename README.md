@@ -26,11 +26,10 @@ project-5-healthplan-enrollment-analysis/
 - Seasonality Index – Quarter-over-quarter pattern detection
 - YoY Growth – Year-over-year enrollment change
 
-## Key Findings
-- [Replace with your top 3-5 insights from the dashboard]
+
 
 ## Dashboard Preview
-[Paste Tableau Public link or screenshot here]
+https://github.com/cowboyrb36-code
 
 ## Contact
 Tarik Smith — Data Analyst
